@@ -1,0 +1,25 @@
+ .carousel
+{
+    width: 100vw;
+    height: 550px;
+    /* overflow:hidden;  */
+    background-size: auto; 
+} 
+
+.carousel-inner{
+    width: 100vw;
+    height: 550px;
+}
+
+.imgcrop{
+height:800px;
+width:200px;
+}
+
+.carousel-caption
+{
+    position: relative;
+    top:10px;
+    left:130px !important;
+}
+
